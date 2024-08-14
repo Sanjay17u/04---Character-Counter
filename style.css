@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: Helvetica, sans-serif;
+    font-weight: 700;
+        
+}
+
+
+.container{
+    width: 40%;
+    background-color: rgb(1, 12, 67);
+    margin: 7em auto;
+    padding: 3em;
+    display: flex;
+    flex-direction: column;
+    border-radius: 1em;
+    color: aliceblue;
+    
+}
+
+.header{
+    margin-bottom: 1em;
+}
+
+.span-One{
+    margin-top: 2em;
+}
+
+#texts{
+ border: none;   
+ border-radius: 1em;
+ padding: 1em;
+}
+
+.span-Two{
+    margin-left: 29em;
+    margin-top: -1em;
+}
